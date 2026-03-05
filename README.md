@@ -15,6 +15,7 @@ The project follows a phased roadmap — Phase 1 covers portfolio management and
 **Stack: Python, FastAPI, SQLAlchemy, React 18, TypeScript, Vite, shadcn/ui, Recharts, Anthropic Claude API**
 
 ######
+_____________________________________________________________________________________________________________________________________________________
 
 **Monarch-Regent — AI-Driven Crypto Trading System**
 
