@@ -1,6 +1,13 @@
 # under-the-hood
 A look at the blueprints and schematics behind my private repositories.
 
+____________________________________________________________________________________________________________________________________________________
+
+**Monarch Sentinel — Automated Day Trading Insights Generator **
+
+Still tinkering so details to come later.
+
+____________________________________________________________________________________________________________________________________________________
 
 **Monarch Chancellor — Personal Investment Analytics Platform**
 
