@@ -1,9 +1,4 @@
-Below is a tight, recruiter-friendly README. It keeps the interesting parts, removes the excess detail, and is optimized for scanability (which is how most engineers and recruiters read repos).
-It should take ~60–90 seconds to read and clearly communicates:
-what the project does
-why it’s interesting
-what technologies you used
-what technical problems you solved
+
 
 # 🤖 AI Crypto Trading POC
 
