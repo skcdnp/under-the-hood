@@ -3,9 +3,15 @@ A look at the blueprints and schematics behind my private repositories.
 
 ____________________________________________________________________________________________________________________________________________________
 
-**Monarch Sentinel — Automated Day Trading Insights Generator **
+**Monarch Lighthouse **
 
-Still tinkering so details to come later.
+Monarch-Lighthouse is a personal financial intelligence platform that aggregates real-time macro data and company-specific news to generate AI-driven portfolio insights — running entirely on a local machine with no cloud dependency or paid data subscriptions.
+
+The platform monitors key economic indicators, ingests news from tiered public sources (Reuters, SEC EDGAR, Federal Reserve, FRED, Finnhub), and uses a materiality engine to determine when genuinely new information warrants generating a fresh AI insight. This prevents redundant analysis and ensures every output reflects a meaningful change in market conditions.
+
+The AI layer is model-agnostic, designed to run locally via Ollama and configurable to connect to frontier models such as Claude or GPT-4 through a single setting. All data ingestion, deduplication, and insight generation run as independent, fault-tolerant components — no single source failure disrupts the system.
+
+Technology: Claude Code, Windsurf, Python · FastAPI · SQLite · React · Ollama · FRED API · Finnhub API · SEC EDGAR · BLS API · Federal Reserve RSS · yfinance
 
 ____________________________________________________________________________________________________________________________________________________
 
