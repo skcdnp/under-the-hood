@@ -9,9 +9,9 @@
 
 ## Background
 
-I am a strategic technical product and program leader with 18 years of experience building mission-critical financial infrastructure across capital markets and fintech. What distinguishes me is a rare dual fluency — I define product strategy and roadmap as a product leader, and I own cross-functional execution as a technical program driver. I flex between these modes based on what the situation demands. Most leaders are strong in one lane. I have spent 18 years developing both.
+I am a strategic technical product leader with 18 years of experience building mission-critical financial infrastructure across capital markets and fintech. I define product strategy as a product leader and own cross-functional execution as a technical program driver, flexing between both based on what the situation demands.
 
-My career has been defined by a consistent pattern: I am brought in when the problem is complex, the stakes are high, the timeline is tight, and there is no existing playbook. I do not manage systems from a distance — I build them, make the architecture calls, navigate the stakeholder complexity, and drive the outcomes.
+I am usually there when the problem is complex, the stakes are high, the timeline is tight, and there is no existing playbook. I do not manage systems from a distance. I like build them, make the architecture calls, navigate the stakeholder complexity, and drive the outcomes.
 
 **The through-line: high-visibility, technically complex programs with real dollar impact.**
 
