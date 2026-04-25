@@ -19,7 +19,7 @@ I am usually there when the problem is complex, the stakes are high, the timelin
 
 ## Experience
 
-### Capital One — Director, Technical Program Management *(2022 – Present)*
+### Capital One — Director, Technical Product / Program Management *(2022 – Present)*
 
 Leading two enterprise-critical programs simultaneously, both at the intersection of financial technology, AI-driven decisioning, and large-scale systems transformation.
 
